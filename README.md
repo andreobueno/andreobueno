@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreobueno
 - 👀 I’m interested in Software Development, Product Building, AI, Vibe Coding, Social Computing, Tennis, Painting, Skateboard, Soccer and family activities :)
 - 🌱 I’m currently working as a Technical Product Manager at Nubank (www.nubank.com.br).
-- 💻 I'm a founder. I am creating an ecosystem for investors to gather and talk about investments in the first Brazilian gamified platform for Investors. Check it out at www.kitinvestidor.com.br 
+- 💻 I'm a founder. I am creating an ecosystem for investors to gather and talk about investments in the first Brazilian gamified platform for Investors. Check it out at [www.kitinvestidor.com.br ](https://kitinvestidor.com.br/?utm_source=github&utm_medium=social_organic&utm_campaign=mlp_validation&utm_content=link_bio__01)
 - 💞️ I’m looking to collaborate on Online Social Network initiatives, especially the ones focused on strengthening communities.
 - 📫 How to reach me: andre.obueno@gmail.com, linkedin: https://www.linkedin.com/in/andreobueno/, instagram: @andreobueno
 
