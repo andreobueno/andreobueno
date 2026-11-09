@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @andreobueno
-- 👀 I’m interested in Software Development, Product Building, AI, Vibe Coding, Social Computing, Tennis, Painting, Skateboard, Soccer and family activities :)
-- 🌱 I’m currently working as a Technical Product Manager at Nubank (www.nubank.com.br).
-- 💻 I'm a founder. I am creating an ecosystem for investors to gather and talk about investments in the first Brazilian gamified platform for Investors. Check it out at [www.kitinvestidor.com.br ](https://kitinvestidor.com.br/?utm_source=github&utm_medium=social_organic&utm_campaign=mlp_validation&utm_content=link_bio__01)
-- 💞️ I’m looking to collaborate on Online Social Network initiatives, especially the ones focused on strengthening communities.
-- 📫 How to reach me: andre.obueno@gmail.com, linkedin: https://www.linkedin.com/in/andreobueno/, instagram: @andreobueno
+# Hi, I'm Andre Bueno 👋
+
+**Senior Technical Product Manager** · Computer Science · MBA in Project Management
+
+- 🎯 I build digital products where technical depth, business strategy, and analytics meet. My background spans software engineering, product ownership, and delivery management.
+- 🏦 Experience in fintech at Nubank (Investments) and NG.CASH.
+- 🚀 Founder of [Kit Investidor](https://www.kitinvestidor.com.br): a Brazilian investment education and portfolio-information platform. I'm building it solo, using AI across discovery, development, and go-to-market.
+- 🤖 Interests: AI product building, digital products, social computing, and online communities that strengthen people.
+- 💼 Open to senior product leadership roles, especially remote and international.
+- 🎾 Outside work: tennis, painting, skateboarding, soccer, and family time.
+
+📫 [LinkedIn](https://www.linkedin.com/in/andreobueno/) · [Instagram](https://www.instagram.com/andreobueno/)
 
 <!---
 andreobueno/andreobueno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
